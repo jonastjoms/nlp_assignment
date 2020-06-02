@@ -1,0 +1,902 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+<!--
+<meta name="title" content="LG - Ask the Community">
+<meta name="keywords" content="lg community, lg ask the communty, lg community forum, lg users forum, lg customer forum, lg forum, forum commity for lg, lg society">
+<meta name="description" content="Find answers, ask questions, and connect with our community of LG users from around the world. We are here to help and the members of LG Community can help answer your questions." />
+-->
+<script src="//assets.adobedtm.com/9df6f1d56aab8e1a23bc5d911dd01089b83d4a51/satelliteLib-1db6628c0c9fad06d36dbead0b0904690f0b6d8f.js"></script>
+
+    <title>Annoying message pops up on my TV — LG - Ask the Community</title>
+  <link rel="next" href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p2" />
+  <link rel="stylesheet" href="/applications/dashboard/design/style.css?v=2.4.201" media="all" />
+  <link rel="stylesheet" href="https://lgcommunity.us.com/applications/dashboard/design/style-compat.css?v=2.6.1" media="all" />
+  <link rel="stylesheet" href="/plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="/resources/design/vanillicon.css?v=2.6.1" media="all" />
+  <link rel="stylesheet" href="/plugins/editor/design/editor.css?v=1.8.1" media="all" />
+  <link rel="stylesheet" href="/applications/vanilla/design/tag.css?v=2.4.201" media="all" />
+  <link rel="stylesheet" href="/themes/LG-Desktop/design/custom.css?v=1.0" media="all" />
+  <link rel="stylesheet" href="/plugins/Voting/design/voting.css?v=1.2" media="all" />
+  <link rel="stylesheet" href="/applications/yaga/design/reactions.css?v=1.1" media="all" />
+  <link rel="stylesheet" href="/applications/vanilla/design/spoilers.css?v=2.4.201" media="all" />
+  <link rel="shortcut icon" href="https://lgcommunity.us.com/uploads/favicon_e154777ee3ef5563.ico" type="image/x-icon" />
+  <link rel="canonical" href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv" />
+  <meta property="og:type" content="article" />
+  <meta name="description" content="Annoying message pops up on my TV" />
+  <meta name="theme-color" content="#a50034" />
+  <meta property="fb:app_id" content="436908340026288" />
+  <meta property="og:site_name" content="LG - Ask the Community" />
+  <meta name="twitter:title" property="og:title" content="Annoying message pops up on my TV" />
+  <meta property="og:url" content="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv" />
+  <meta name="description" property="og:description" content="The words “unknown device is disconnected.” keeps popping up on my tv every few minutes or so." />
+  <meta property="og:image" content="https://lgcommunity.us.com/uploads/G6JRYU6CW3VY.png" />
+  <meta name="twitter:description" content="The words “unknown device is disconnected.” keeps popping up on my tv every few minutes or so." />
+  <meta name="twitter:card" content="summary" />
+  <script>gdn=window.gdn||{};gdn.meta={"ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","emoji":{"assetPath":"https:\/\/lgcommunity.us.com\/resources\/emoji","format":"<img class=\"emoji\" src=\"%1$s\" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"DiscussionID":"1621","Category":"4K Ultra HD TVs","editorVersion":"1.8.1","editorPluginAssets":"\/plugins\/editor","fileUpload-remove":"Remove file","fileUpload-reattach":"Click to re-attach","fileUpload-inserted":"Inserted","fileUpload-insertedTooltip":"This image has been inserted into the body of text.","wysiwygHelpText":"You are using <a href=\"https:\/\/en.wikipedia.org\/wiki\/WYSIWYG\" target=\"_new\">WYSIWYG<\/a> in your post.","bbcodeHelpText":"You can use <a href=\"http:\/\/en.wikipedia.org\/wiki\/BBCode\" target=\"_new\">BBCode<\/a> in your post.","htmlHelpText":"You can use <a href=\"http:\/\/htmlguide.drgrog.com\/cheatsheet.php\" target=\"_new\">Simple HTML<\/a> in your post.","markdownHelpText":"You can use <a href=\"http:\/\/en.wikipedia.org\/wiki\/Markdown\" target=\"_new\">Markdown<\/a> in your post.","textHelpText":"You are using plain text in your post.","editorWysiwygCSS":"\/plugins\/editor\/design\/wysiwyg.css","canUpload":false,"fileErrorSize":"File size is too large.","fileErrorFormat":"File format is not allowed.","fileErrorSizeFormat":"File size is too large and format is not allowed.","maxUploadSize":52428800,"editorFileInputName":"editorupload","allowedImageExtensions":"{\"1\":\"jpg\",\"2\":\"jpeg\",\"3\":\"gif\",\"4\":\"png\",\"5\":\"bmp\",\"6\":\"tiff\"}","allowedFileExtensions":"[\"txt\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"bmp\",\"tiff\",\"ico\",\"zip\",\"gz\",\"tar.gz\",\"tgz\",\"psd\",\"ai\",\"fla\",\"pdf\",\"doc\",\"xls\",\"ppt\",\"docx\",\"xlsx\",\"pptx\",\"log\",\"rar\",\"7z\"]","maxFileUploads":"20","Spoiler":"Spoiler","show":"show","hide":"hide","AnalyticsTask":"tick","TaggingAdd":false,"TaggingSearchUrl":"\/tags\/search","MaxTagsAllowed":5,"TagHint":"Start to type...","RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/lgcommunity.us.com\/","UrlFormat":"\/{Path}","Path":"discussion\/1621\/annoying-message-pops-up-on-my-tv","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"1621","DiscussionStub":"annoying-message-pops-up-on-my-tv","Page":""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","basePath":"","assetPath":"","title":"LG - Ask the Community"};</script>
+  <script src="/js/library/jquery.js?v=2.6.1"></script>
+  <script src="/js/library/jquery.form.js?v=2.6.1"></script>
+  <script src="/js/library/jquery.popup.js?v=2.6.1"></script>
+  <script src="/js/library/jquery.popin.js?v=2.6.1"></script>
+  <script src="/js/library/jquery.gardenhandleajaxform.js?v=2.6.1"></script>
+  <script src="/js/library/jquery.atwho.js?v=2.6.1"></script>
+  <script src="/js/global.js?v=2.6.1"></script>
+  <script src="/js/library/jquery.autosize.min.js?v=2.6.1"></script>
+  <script src="/applications/vanilla/js/discussion.js?v=2.4.201"></script>
+  <script src="/plugins/Voting/js/voting.js?v=1.2"></script>
+  <script src="/plugins/editor/js/editor.js?v=1.8.1"></script>
+  <script src="/plugins/editor/js/jquery.ui.widget.js?v=1.8.1"></script>
+  <script src="/plugins/editor/js/jquery.iframe-transport.js?v=1.8.1"></script>
+  <script src="/plugins/editor/js/jquery.fileupload.js?v=1.8.1"></script>
+  <script src="/applications/vanilla/js/spoilers.js?v=2.4.201"></script>
+  <script src="/applications/vanilla/js/tagging.js?v=2.4.201"></script>
+  <script src="/js/library/jquery.tokeninput.js?v=2.6.1"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+   $.fn.autosave = function(opts) {
+		return;
+	}
+});
+</script>
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+</head>
+<body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Question Section-Discussion Section-Category-4k-ultra-hd-tvs">
+    <a id="skip-to-content" href="#content">Skip to Content</a>
+<div id="Frame">
+    <div id="Head">
+        <div class="row desktopHeader">
+            <strong class="SiteTitle"><a href="/"><img src="https://lgcommunity.us.com/uploads/830X3G2ACHVS.jpg" alt="LG - Ask the Community" /></a></strong>
+            <ul class="SiteMenu">
+                
+                <li><a href="/discussions" class="">Discussions</a></li>
+                <li><a href="/activity" class="">Activity</a></li>
+                
+                <li><a href="/leaders">Leaders</a></li>
+                <li><a href="/powerusers">Power Users</a></li>
+                <!-- <li><a href="/categories/articles">Articles</a></li> -->
+                
+                <!---->
+               <!--<li><a href="/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>-->
+            </ul>
+        </div>
+        <header id="appHeaderMobile" class="appHeader mobileHeader"> 
+            <div class="container"> 
+                <div class="branding"> 
+                    <a href="/"><img src="https://lgcommunity.us.com/uploads/830X3G2ACHVS.jpg" alt="LG - Ask the Community" /></a> 
+                </div> 
+                <div class="primary-nav"> 
+                    <ul> 
+                        
+                        <li><a href="javascript:void(0)" class="primary-nav-link search-menu-btn"><span class="alt-text">Search</span><i class="icon icon-search"></i><i class="icon icon-close hide"></i></a></li> 
+                        <li><a href="javascript:void(0)" class="primary-nav-link mobile-nav-hamburger"><span class="alt-text">Main Menu</span><i class="icon icon-hamburger"></i></a></li> 
+                    </ul> 
+                </div> 
+            </div> 
+        </header>
+        <div id="nav-list" class="nav-list mobileHeader">
+            <ul>
+             
+                <div class="MeBox MeBox-SignIn"><div class="SignInLinks"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class=" SignInPopup" rel="nofollow">Sign In</a> <span class="Bullet">&middot;</span> <a href="/entry/register?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="ApplyButton" rel="nofollow">Register</a> </div> <div class="SignInIcons">
+<a href="/entry/facebook" class="SocialIcon SocialIcon-Facebook " rel="nofollow" title="Sign In with Facebook"><span class="Icon"></span><span class="Text">icon</span></a>
+<a href="https://lgcommunity.us.com/entry/twauthorize?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="SocialIcon SocialIcon-Twitter js-extern" rel="nofollow" title="Sign In with Twitter"><span class="Icon"></span><span class="Text">icon</span></a> <a href="/entry/googleplusauthredirect?Target=/discussion/1621/annoying-message-pops-up-on-my-tv" class="SocialIcon SocialIcon-Google " rel="nofollow" title="Sign In with Google"><span class="Icon"></span><span class="Text">icon</span></a> </div></div>
+                
+                <li><a href="/discussions" class="">Discussions</a></li>
+                <li class="sub"><a href="/post/question?Type=Question">Start a Discussion</a></li>
+                <li class="sub"><a href="/categories">Categories</a></li>
+                <li class="sub"><a href="/discussions/popular">Popular</a></li>
+                <li class="sub"><a href="/discussions">Recent</a></li>
+                <li class="sub"><a href="/powerusers">Power Users</a></li>
+                <hr>
+                <li><a href="/activity" class="">Activity</a></li>
+                <li class="sub"><a href="/categories/getting-started">Getting Started</a></li>
+                
+                
+ 
+                 
+            </ul>
+
+            
+        </div>
+        <div class="search-takeover search-menu mobileHeader"> 
+            <div class="banner-search">
+                <div class="SiteSearch"><form method="get" action="/search">
+<div>
+<input type="text" id="Form_Search" name="Search" value="" placeholder="Search" accesskey="/" aria-label="Enter your search term." title="Enter your search term." role="searchbox" class="InputBox" /><input type="submit" id="Form_Go" name="" aria-label="Search" class="Button" value="Go" />
+</div>
+</form></div>
+            </div>
+        </div>
+
+    </div>
+    <div id="Body">
+        <div class="BreadcrumbsWrapper P">
+            <div class="BreadcrumbsInner clearfix">
+                <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="https://lgcommunity.us.com/" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-help-troubleshooting"><a href="https://lgcommunity.us.com/categories/help-troubleshooting" itemprop="url"><span itemprop="title">Help &amp; Troubleshooting</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-tv-audio-video"><a href="https://lgcommunity.us.com/categories/tv-audio-video" itemprop="url"><span itemprop="title">TV/Audio/Video</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-tvs"><a href="https://lgcommunity.us.com/categories/tvs" itemprop="url"><span itemprop="title">TVs</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-4k-ultra-hd-tvs Last"><a href="https://lgcommunity.us.com/categories/4k-ultra-hd-tvs" itemprop="url"><span itemprop="title">4K Ultra HD TVs</span></a></span> </span></span></span></span></span>
+                <div class="MeBox MeBox-SignIn FlyoutRight"><div class="SignInLinks"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class=" SignInPopup" rel="nofollow">Sign In</a> <span class="Bullet">&middot;</span> <a href="/entry/register?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="ApplyButton" rel="nofollow">Register</a> </div> <div class="SignInIcons">
+<a href="/entry/facebook" class="SocialIcon SocialIcon-Facebook " rel="nofollow" title="Sign In with Facebook"><span class="Icon"></span><span class="Text">icon</span></a>
+<a href="https://lgcommunity.us.com/entry/twauthorize?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="SocialIcon SocialIcon-Twitter js-extern" rel="nofollow" title="Sign In with Twitter"><span class="Icon"></span><span class="Text">icon</span></a> <a href="/entry/googleplusauthredirect?Target=/discussion/1621/annoying-message-pops-up-on-my-tv" class="SocialIcon SocialIcon-Google " rel="nofollow" title="Sign In with Google"><span class="Icon"></span><span class="Text">icon</span></a> </div></div>
+                </div>
+        </div>
+        <section id="content" class="support-title">
+            <div class="background-image">
+                <div class="title"><h1 class="title-head">Annoying message pops up on my TV</h1></div>
+                <div class="title-description"><p>The words “unknown device is disconnected.” keeps popping up on my tv every few minutes or so.</p></div>
+                <div class="banner-search">
+                    <div class="SiteSearch"><form method="get" action="/search">
+<div>
+<input type="text" id="Form_Search1" name="Search" value="" placeholder="Search" accesskey="/" aria-label="Enter your search term." title="Enter your search term." role="searchbox" class="InputBox" /><input type="submit" id="Form_Go1" name="" aria-label="Search" class="Button" value="Go" />
+</div>
+</form>
+                    </div>
+                </div>
+            </div>
+            
+        </section>
+
+        
+        <div class="desktop parts-link">
+            <a class="parts-link-section" href="https://lg.registria.com/" target="_blank" title="Navigates to the LG Product Registration Page" data-sc-item="registration-from-jan-banner" data-sc-value="comm-forum"><span class="parts-image"><img src="https://www.lg.com/us/lgeai/landing/images/Register.jpg" alt="parts banner"></span><span class="parts-text"><h1>Register your <span class="product-name">Product</span></h1><p>for a chance to win</p></span></a>
+        </div>
+
+        <div class="is-mobile parts-link">
+            <a class="parts-link-section" href="https://lg.registria.com/" target="_blank" title="Navigates to the LG Product Registration Page" data-sc-item="registration-from-jan-banner" data-sc-value="comm-forum"><span class="parts-image"><img src="https://www.lg.com/us/lgeai/landing/images/Register-mobile.jpg" alt="parts banner"></span><span class="parts-text"><span class="register-your">Register Your</span><br><span class="product-name">LG Product</span><p class="parts-text-box">for a chance to win</p></span></a>
+        </div>
+
+
+        <div class="wrapper support">
+            <div class="SidebarWidget Left">
+                <div class="SidebarContent">
+                
+                <div class="Box GuestBox">
+    <h4>Welcome Guest!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p>
+<a href="/entry/facebook" class="SocialIcon SocialIcon-Facebook " rel="nofollow" title="Sign In with Facebook"><span class="Icon"></span><span class="Text">icon</span></a>
+<a href="https://lgcommunity.us.com/entry/twauthorize?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="SocialIcon SocialIcon-Twitter js-extern" rel="nofollow" title="Sign In with Twitter"><span class="Icon"></span><span class="Text">icon</span></a> <a href="/entry/googleplusauthredirect?Target=/discussion/1621/annoying-message-pops-up-on-my-tv" class="SocialIcon SocialIcon-Google " rel="nofollow" title="Sign In with Google"><span class="Icon"></span><span class="Text">icon</span></a> </p>
+
+    <div class="P"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="/entry/register?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <ul class="FilterMenu">
+        <li class="AllCategories"><a href="/categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>                 <li class="Discussions"><a href="/discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="QnA-UnansweredQuestions "><a href="/discussions/unanswered" class="UnansweredQuestions"><span aria-hidden="true" class="Sprite SpUnansweredQuestions"></span> Unanswered <span class="Aside"><span class="Popin Count" rel="/discussions/unansweredcount"></span></a></li><li class="Best"><a href="/best"><span aria-hidden="true" class="SpMod Sprite SpBestOf"></span> Best Of...</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li class="Depth0  hasChild"><a href="/categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="11,407 discussions" class="Number">11.4K</span></span></span> All Categories</a><div class="NestCat"><ul><li class="ClearFix Depth1 Category-smartthinq" aria-level="3"data-catid="37"><a href="https://lgcommunity.us.com/categories/smartthinq" class="ItemLink"><span class="Aside"><span class="Count"><span title="393 discussions" class="Number">393</span></span></span> LG ThinQ</a></li>
+<li class="ClearFix Depth1 Category-signature" aria-level="3"data-catid="11"><a href="https://lgcommunity.us.com/categories/signature" class="ItemLink"><span class="Aside"><span class="Count"><span title="16 discussions" class="Number">16</span></span></span> Signature</a></li>
+<li class="ClearFix Depth1 get-started" aria-level="3"data-catid="95"><a href="https://lgcommunity.us.com/categories/getting-started" class="ItemLink"><span class="Aside"><span class="Count"><span title="6 discussions" class="Number">6</span></span></span> Getting Started</a></li>
+<li class="ClearFix Depth1 hasChild Category-help-troubleshooting" aria-level="3"data-catid="112"><a href="https://lgcommunity.us.com/categories/help-troubleshooting" class="ItemLink"><span class="Aside"><span class="Count"><span title="10,992 discussions" class="Number">11K</span></span></span> Help &amp; Troubleshooting</a><div class="NestCat"><ul><li class="ClearFix Depth2 hasChild Category-tv-audio-video" aria-level="4"data-catid="8"><a href="https://lgcommunity.us.com/categories/tv-audio-video" class="ItemLink"><span class="Aside"><span class="Count"><span title="5,256 discussions" class="Number">5.3K</span></span></span> TV/Audio/Video</a><div class="NestCat"><ul><li class="ClearFix Depth3 hasChild Category-tvs" aria-level="5"data-catid="24"><a href="https://lgcommunity.us.com/categories/tvs" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,250 discussions" class="Number">4.3K</span></span></span> TVs</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-oled-tvs" aria-level="6"data-catid="51"><a href="https://lgcommunity.us.com/categories/oled-tvs" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,067 discussions" class="Number">1.1K</span></span></span> OLED TVs</a></li>
+<li class="ClearFix Depth4 Category-super-uhd-tvs" aria-level="6"data-catid="52"><a href="https://lgcommunity.us.com/categories/super-uhd-tvs" class="ItemLink"><span class="Aside"><span class="Count"><span title="82 discussions" class="Number">82</span></span></span> Super UHD TVs</a></li>
+<li class="ClearFix Depth4 Active Category-4k-ultra-hd-tvs" aria-level="6"data-catid="53"><a href="https://lgcommunity.us.com/categories/4k-ultra-hd-tvs" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,075 discussions" class="Number">2.1K</span></span></span> 4K Ultra HD TVs</a></li>
+<li class="ClearFix Depth4 Category-1080p-led-tvs" aria-level="6"data-catid="54"><a href="https://lgcommunity.us.com/categories/1080p-led-tvs" class="ItemLink"><span class="Aside"><span class="Count"><span title="362 discussions" class="Number">362</span></span></span> 1080p LED TVs</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 hasChild Category-home-audio" aria-level="5"data-catid="25"><a href="https://lgcommunity.us.com/categories/home-audio" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Home Audio</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-sound-bars-soundplates" aria-level="6"data-catid="56"><a href="https://lgcommunity.us.com/categories/sound-bars-soundplates" class="ItemLink"><span class="Aside"><span class="Count"><span title="366 discussions" class="Number">366</span></span></span> Sound Bars &amp; SoundPlates</a></li>
+<li class="ClearFix Depth4 Category-portable-bluetooth-speakers" aria-level="6"data-catid="58"><a href="https://lgcommunity.us.com/categories/portable-bluetooth-speakers" class="ItemLink"><span class="Aside"><span class="Count"><span title="23 discussions" class="Number">23</span></span></span> Portable Bluetooth Speakers</a></li>
+<li class="ClearFix Depth4 Category-wireless-speakers" aria-level="6"data-catid="55"><a href="https://lgcommunity.us.com/categories/wireless-speakers" class="ItemLink"><span class="Aside"><span class="Count"><span title="36 discussions" class="Number">36</span></span></span> Wireless Speakers</a></li>
+<li class="ClearFix Depth4 Category-home-theater-systems" aria-level="6"data-catid="59"><a href="https://lgcommunity.us.com/categories/home-theater-systems" class="ItemLink"><span class="Aside"><span class="Count"><span title="54 discussions" class="Number">54</span></span></span> Home Theater Systems</a></li>
+<li class="ClearFix Depth4 Category-shelf-stereo-systems" aria-level="6"data-catid="57"><a href="https://lgcommunity.us.com/categories/shelf-stereo-systems" class="ItemLink"><span class="Aside"><span class="Count"><span title="17 discussions" class="Number">17</span></span></span> Shelf Stereo Systems</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 Category-home-video" aria-level="5"data-catid="26"><a href="https://lgcommunity.us.com/categories/home-video" class="ItemLink"><span class="Aside"><span class="Count"><span title="79 discussions" class="Number">79</span></span></span> Home Video</a></li>
+<li class="ClearFix Depth3 Category-home-security" aria-level="5"data-catid="27"><a href="https://lgcommunity.us.com/categories/home-security" class="ItemLink"><span class="Aside"><span class="Count"><span title="6 discussions" class="Number">6</span></span></span> Home Security</a></li>
+<li class="ClearFix Depth3 Category-tv-audio-video-accessories" aria-level="5"data-catid="28"><a href="https://lgcommunity.us.com/categories/tv-audio-video-accessories" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> TV/Audio/Video Accessories</a></li>
+</ul></div</li>
+<li class="ClearFix Depth2 hasChild Category-mobile" aria-level="4"data-catid="7"><a href="https://lgcommunity.us.com/categories/mobile" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,593 discussions" class="Number">1.6K</span></span></span> Mobile</a><div class="NestCat"><ul><li class="ClearFix Depth3 hasChild Category-cell-phones" aria-level="5"data-catid="19"><a href="https://lgcommunity.us.com/categories/cell-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,344 discussions" class="Number">1.3K</span></span></span> Cell Phones</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-g6" aria-level="6"data-catid="40"><a href="https://lgcommunity.us.com/categories/g6" class="ItemLink"><span class="Aside"><span class="Count"><span title="97 discussions" class="Number">97</span></span></span> G6</a></li>
+<li class="ClearFix Depth4 Category-at-t-phones" aria-level="6"data-catid="41"><a href="https://lgcommunity.us.com/categories/at-t-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="78 discussions" class="Number">78</span></span></span> AT&amp;T Phones</a></li>
+<li class="ClearFix Depth4 Category-sprint-phones" aria-level="6"data-catid="42"><a href="https://lgcommunity.us.com/categories/sprint-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="79 discussions" class="Number">79</span></span></span> Sprint Phones</a></li>
+<li class="ClearFix Depth4 Category-t-mobile-phones" aria-level="6"data-catid="43"><a href="https://lgcommunity.us.com/categories/t-mobile-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="126 discussions" class="Number">126</span></span></span> T-Mobile Phones</a></li>
+<li class="ClearFix Depth4 Category-verizon-phones" aria-level="6"data-catid="44"><a href="https://lgcommunity.us.com/categories/verizon-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="96 discussions" class="Number">96</span></span></span> Verizon Phones</a></li>
+<li class="ClearFix Depth4 Category-tracfone-phones" aria-level="6"data-catid="46"><a href="https://lgcommunity.us.com/categories/tracfone-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="95 discussions" class="Number">95</span></span></span> TracFone Phones</a></li>
+<li class="ClearFix Depth4 Category-unlocked-phones" aria-level="6"data-catid="45"><a href="https://lgcommunity.us.com/categories/unlocked-phones" class="ItemLink"><span class="Aside"><span class="Count"><span title="115 discussions" class="Number">115</span></span></span> Unlocked Phones</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 Category-tablets" aria-level="5"data-catid="21"><a href="https://lgcommunity.us.com/categories/tablets" class="ItemLink"><span class="Aside"><span class="Count"><span title="33 discussions" class="Number">33</span></span></span> Tablets</a></li>
+<li class="ClearFix Depth3 Category-smart-watches" aria-level="5"data-catid="113"><a href="https://lgcommunity.us.com/categories/smart-watches" class="ItemLink"><span class="Aside"><span class="Count"><span title="8 discussions" class="Number">8</span></span></span> Smart Watches</a></li>
+<li class="ClearFix Depth3 Category-mobile-accessories" aria-level="5"data-catid="23"><a href="https://lgcommunity.us.com/categories/mobile-accessories" class="ItemLink"><span class="Aside"><span class="Count"><span title="49 discussions" class="Number">49</span></span></span> Mobile Accessories</a></li>
+</ul></div</li>
+<li class="ClearFix Depth2 hasChild Category-appliances" aria-level="4"data-catid="9"><a href="https://lgcommunity.us.com/categories/appliances" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,248 discussions" class="Number">2.2K</span></span></span> Appliances</a><div class="NestCat"><ul><li class="ClearFix Depth3 hasChild Category-laundry" aria-level="5"data-catid="34"><a href="https://lgcommunity.us.com/categories/laundry" class="ItemLink"><span class="Aside"><span class="Count"><span title="768 discussions" class="Number">768</span></span></span> Laundry</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-washers" aria-level="6"data-catid="82"><a href="https://lgcommunity.us.com/categories/washers" class="ItemLink"><span class="Aside"><span class="Count"><span title="516 discussions" class="Number">516</span></span></span> Washers</a></li>
+<li class="ClearFix Depth4 Category-dryers" aria-level="6"data-catid="83"><a href="https://lgcommunity.us.com/categories/dryers" class="ItemLink"><span class="Aside"><span class="Count"><span title="164 discussions" class="Number">164</span></span></span> Dryers</a></li>
+<li class="ClearFix Depth4 Category-washer-dryer-combos" aria-level="6"data-catid="84"><a href="https://lgcommunity.us.com/categories/washer-dryer-combos" class="ItemLink"><span class="Aside"><span class="Count"><span title="51 discussions" class="Number">51</span></span></span> Washer Dryer Combos</a></li>
+<li class="ClearFix Depth4 Category-styler" aria-level="6"data-catid="85"><a href="https://lgcommunity.us.com/categories/styler" class="ItemLink"><span class="Aside"><span class="Count"><span title="1 discussion" class="Number">1</span></span></span> Styler</a></li>
+<li class="ClearFix Depth4 Category-laundry-accessories" aria-level="6"data-catid="86"><a href="https://lgcommunity.us.com/categories/laundry-accessories" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> Laundry Accessories</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 hasChild Category-kitchen-appliances" aria-level="5"data-catid="33"><a href="https://lgcommunity.us.com/categories/kitchen-appliances" class="ItemLink"><span class="Aside"><span class="Count"><span title="938 discussions" class="Number">938</span></span></span> Kitchen</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-refrigerators" aria-level="6"data-catid="77"><a href="https://lgcommunity.us.com/categories/refrigerators" class="ItemLink"><span class="Aside"><span class="Count"><span title="582 discussions" class="Number">582</span></span></span> Refrigerators</a></li>
+<li class="ClearFix Depth4 Category-cooking-appliances" aria-level="6"data-catid="78"><a href="https://lgcommunity.us.com/categories/cooking-appliances" class="ItemLink"><span class="Aside"><span class="Count"><span title="202 discussions" class="Number">202</span></span></span> Cooking Appliances</a></li>
+<li class="ClearFix Depth4 Category-lg-studio" aria-level="6"data-catid="79"><a href="https://lgcommunity.us.com/categories/lg-studio" class="ItemLink"><span class="Aside"><span class="Count"><span title="8 discussions" class="Number">8</span></span></span> LG Studio</a></li>
+<li class="ClearFix Depth4 Category-dishwashers" aria-level="6"data-catid="80"><a href="https://lgcommunity.us.com/categories/dishwashers" class="ItemLink"><span class="Aside"><span class="Count"><span title="132 discussions" class="Number">132</span></span></span> Dishwashers</a></li>
+<li class="ClearFix Depth4 Category-kitchen-accessories" aria-level="6"data-catid="81"><a href="https://lgcommunity.us.com/categories/kitchen-accessories" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> Kitchen Accessories</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 hasChild Category-air-conditioners" aria-level="5"data-catid="39"><a href="https://lgcommunity.us.com/categories/air-conditioners" class="ItemLink"><span class="Aside"><span class="Count"><span title="137 discussions" class="Number">137</span></span></span> Air Conditioners</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-portable" aria-level="6"data-catid="87"><a href="https://lgcommunity.us.com/categories/portable" class="ItemLink"><span class="Aside"><span class="Count"><span title="37 discussions" class="Number">37</span></span></span> Portable</a></li>
+<li class="ClearFix Depth4 Category-window" aria-level="6"data-catid="88"><a href="https://lgcommunity.us.com/categories/window" class="ItemLink"><span class="Aside"><span class="Count"><span title="26 discussions" class="Number">26</span></span></span> Window</a></li>
+<li class="ClearFix Depth4 Category-through-the-wall" aria-level="6"data-catid="89"><a href="https://lgcommunity.us.com/categories/through-the-wall" class="ItemLink"><span class="Aside"><span class="Count"><span title="5 discussions" class="Number">5</span></span></span> Through the Wall</a></li>
+<li class="ClearFix Depth4 Category-split-systems" aria-level="6"data-catid="90"><a href="https://lgcommunity.us.com/categories/split-systems" class="ItemLink"><span class="Aside"><span class="Count"><span title="43 discussions" class="Number">43</span></span></span> Split Systems</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 hasChild Category-air-care-solutions" aria-level="5"data-catid="35"><a href="https://lgcommunity.us.com/categories/air-care-solutions" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> Air Care Solutions</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-air-purifiers" aria-level="6"data-catid="91"><a href="https://lgcommunity.us.com/categories/air-purifiers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2 discussions" class="Number">2</span></span></span> Air Purifiers</a></li>
+<li class="ClearFix Depth4 Category-dehumidifiers" aria-level="6"data-catid="92"><a href="https://lgcommunity.us.com/categories/dehumidifiers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2 discussions" class="Number">2</span></span></span> Dehumidifiers</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 Category-vacuum-cleaners" aria-level="5"data-catid="36"><a href="https://lgcommunity.us.com/categories/vacuum-cleaners" class="ItemLink"><span class="Aside"><span class="Count"><span title="6 discussions" class="Number">6</span></span></span> Vacuum Cleaners</a></li>
+<li class="ClearFix Depth3 hasChild Category-other-appliances" aria-level="5"data-catid="38"><a href="https://lgcommunity.us.com/categories/other-appliances" class="ItemLink"><span class="Aside"><span class="Count"><span title="349 discussions" class="Number">349</span></span></span> Other Appliances</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-led-lights" aria-level="6"data-catid="93"><a href="https://lgcommunity.us.com/categories/led-lights" class="ItemLink"><span class="Aside"><span class="Count"><span title="1 discussion" class="Number">1</span></span></span> LED Lights</a></li>
+<li class="ClearFix Depth4 Category-other-roh-appliances" aria-level="6"data-catid="94"><a href="https://lgcommunity.us.com/categories/other-roh-appliances" class="ItemLink"><span class="Aside"><span class="Count"><span title="140 discussions" class="Number">140</span></span></span> Other</a></li>
+</ul></div</li>
+</ul></div</li>
+<li class="ClearFix Depth2 hasChild Category-computers" aria-level="4"data-catid="10"><a href="https://lgcommunity.us.com/categories/computers" class="ItemLink"><span class="Aside"><span class="Count"><span title="481 discussions" class="Number">481</span></span></span> Computers</a><div class="NestCat"><ul><li class="ClearFix Depth3 hasChild Category-monitors" aria-level="5"data-catid="29"><a href="https://lgcommunity.us.com/categories/monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="356 discussions" class="Number">356</span></span></span> Monitors</a><div class="NestCat"><ul><li class="ClearFix Depth4 Category-21:9-ultrawide-monitors" aria-level="6"data-catid="66"><a href="https://lgcommunity.us.com/categories/21%3A9-ultrawide-monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="105 discussions" class="Number">105</span></span></span> 21:9 UltraWide Monitors</a></li>
+<li class="ClearFix Depth4 Category-gaming-monitors" aria-level="6"data-catid="68"><a href="https://lgcommunity.us.com/categories/gaming-monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="24 discussions" class="Number">24</span></span></span> Gaming Monitors</a></li>
+<li class="ClearFix Depth4 Category-4k-5k-monitors" aria-level="6"data-catid="67"><a href="https://lgcommunity.us.com/categories/4k-5k-monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="97 discussions" class="Number">97</span></span></span> 4K / 5K Monitors</a></li>
+<li class="ClearFix Depth4 Category-led-monitors" aria-level="6"data-catid="71"><a href="https://lgcommunity.us.com/categories/led-monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> LED Monitors</a></li>
+<li class="ClearFix Depth4 Category-ips-monitors" aria-level="6"data-catid="70"><a href="https://lgcommunity.us.com/categories/ips-monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="36 discussions" class="Number">36</span></span></span> IPS Monitors</a></li>
+<li class="ClearFix Depth4 Category-ultrafine-monitors" aria-level="6"data-catid="69"><a href="https://lgcommunity.us.com/categories/ultrafine-monitors" class="ItemLink"><span class="Aside"><span class="Count"><span title="10 discussions" class="Number">10</span></span></span> UltraFine Monitors</a></li>
+</ul></div</li>
+<li class="ClearFix Depth3 Category-burners-drives" aria-level="5"data-catid="32"><a href="https://lgcommunity.us.com/categories/burners-drives" class="ItemLink"><span class="Aside"><span class="Count"><span title="48 discussions" class="Number">48</span></span></span> Burners &amp; Drives</a></li>
+<li class="ClearFix Depth3 Category-laptops" aria-level="5"data-catid="30"><a href="https://lgcommunity.us.com/categories/laptops" class="ItemLink"><span class="Aside"><span class="Count"><span title="69 discussions" class="Number">69</span></span></span> Laptops</a></li>
+<li class="ClearFix Depth3 Category-desktops-all-in-one-computers" aria-level="5"data-catid="31"><a href="https://lgcommunity.us.com/categories/desktops-all-in-one-computers" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> Desktops &amp; All-in-One</a></li>
+</ul></div</li>
+<li class="ClearFix Depth2 hasChild Category-commercial-products" aria-level="4"data-catid="111"><a href="https://lgcommunity.us.com/categories/commercial-products" class="ItemLink"><span class="Aside"><span class="Count"><span title="23 discussions" class="Number">23</span></span></span> Commercial Products</a><div class="NestCat"><ul><li class="ClearFix Depth3 Category-commercial-a-c" aria-level="5"data-catid="107"><a href="https://lgcommunity.us.com/categories/commercial-a-c" class="ItemLink"> Commercial A/C</a></li>
+<li class="ClearFix Depth3 Category-commercial-display" aria-level="5"data-catid="101"><a href="https://lgcommunity.us.com/categories/commercial-display" class="ItemLink"><span class="Aside"><span class="Count"><span title="19 discussions" class="Number">19</span></span></span> Commercial Display</a></li>
+</ul></div</li>
+</ul></div</li>
+</div></li></ul>        </ul>
+    </div>
+
+                 
+                </div>
+            </div>
+            
+            <div class="main-ai-section">
+                <div class="MessageList Discussion"><!-- Page Titles -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h3>Annoying message pops up on my TV</h3>
+ <div class="Item-Header DiscussionHeader discussion-float">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/Bernie110" class="Username">Bernie110</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                Posted on 2018-07-22 14:19:04            </span>
+                                 <span class="MItem Category"><a href="https://lgcommunity.us.com/categories/4k-ultra-hd-tvs">4K Ultra HD TVs</a></span> <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>            </div>
+                    </div>
+
+</div>
+
+<div id="Discussion_1621" class="Item ItemDiscussion  Role_Member">
+    <div class="Discussion">
+     
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message">
+                    The words “unknown device is disconnected.” keeps popping up on my tv every few minutes or so. It’s been &nbsp;doing it more ever since I updadated my tv and it’s really driving me crazy. Anyone know the solution to this?&nbsp;                </div>
+                        <div class="InlineTags Meta">
+            Tagged:
+            <ul>
+                                                            <li><a href="/discussions/tagged/tv" class="Tag_tv">tv</a></li>
+                                                                                <li><a href="/discussions/tagged/4k" class="Tag_4k">4k</a></li>
+                                                                                <li><a href="/discussions/tagged/uhd" class="Tag_uhd">UHD</a></li>
+                                                                                <li><a href="/discussions/tagged/4k-smrt-tv" class="Tag_4k-smrt-tv">4k smrt tv</a></li>
+                                                                                <li><a href="/discussions/tagged/someonehelp" class="Tag_someonehelp">someonehelp</a></li>
+                                                </ul>
+        </div>
+        <div class="ReactionRecord"></div><div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="DataBox DataBox-AcceptedAnswers"><span id="accepted"></span>
+   <h2 class="CommentHeading">Best Answer</h2>
+   <ul class="MessageList DataList AcceptedAnswers">
+      		<!--
+		<li class="Item">
+			<div class="VotingSort">
+			<strong>128 Comments</strong> sorted by <a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv?Sort=popular" rel="nofollow" class="Active">Votes</a> <a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv?Sort=date" rel="nofollow">Date Added</a>			</div>
+		</li>
+		-->
+		        <li class="Item Alt ItemComment QnA-Item-Accepted" id="Comment_16239">
+            <div class="Comment">
+
+                <span id="latest"></span>                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="JamalofLG" href="/profile/JamalofLG" class="PhotoWrap"><img src="https://lgcommunity.us.com/uploads/userpics/511/nYOVD3AVHM8UI.JPG" alt="JamalofLG" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/JamalofLG" class="Username">JamalofLG</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2019-12-09 15:11:37            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>5</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            If you are experiencing and problem with Wi-Fi Disconnecting, Wi-Fi turned off, or Unknown Device Disconnected, Please send me a message here:&nbsp;<a href="https://lgcommunity.us.com/messages/add" rel="nofollow">https://lgcommunity.us.com/messages/add</a>, with the information below to schedule a service appointment to get this resolved.<span class="post-font-size-medium"> </span><p>Name:</p><span class="post-font-size-medium"></span><p>Address:</p><span class="post-font-size-medium"></span><p>Phone number:</p><span class="post-font-size-medium"></span><p>Model Number:</p><span class="post-font-size-medium"></span><p>Serial Number:</p><span class="post-font-size-medium"></span><p>Date of Purchase:</p>                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="43060" title="keithhutch35 - Helpful on February 21, 2020."><a title="keithhutch35" href="/profile/keithhutch35" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/uploads/userpics/253/n64ZJTKQFB34Q.jpg" alt="keithhutch35" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+           </ul>
+</div>
+<!--Comment Starts Here--><div class="CommentsWrap"><span class="BeforeCommentHeading"><span  id="PagerBefore" class="Pager NumberedPager"><span class="Previous">«</span><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv" class="Highlight p-1 FirstPage">1</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p2" class=" p-2" rel="next">2</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p3" class=" p-3">3</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p4" class=" p-4">4</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p5" class=" p-5">5</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p6" class=" p-6">6</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p7" class=" p-7">7</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p8" class=" p-8">8</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p9" class=" p-9 LastPage">9</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p2" class="Next" rel="next">»</a></span></span><div class="DataBox DataBox-Comments"><h3 class="CommentHeading">15 Comments</h3>        <ul class="MessageList DataList Comments">
+                    <li class="Item ItemComment Role_LGModerator QnA-Item-Rejected" id="Comment_2390">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Alexander" href="/profile/Alexander" class="PhotoWrap"><img src="https://lgcommunity.us.com/uploads/userpics/394/n7DYOJ96Y4DI1.png" alt="Alexander" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/Alexander" class="Username">Alexander</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">LG Moderator</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-08-31 20:36:39            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>-45</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            <a href="https://lgcommunity.us.com/profile/Bernie110" rel="nofollow">@Bernie110</a>, Good day,<br /><br />Have you identified what connection is causing this error? do you have multiple electronics connected to your TV? If so, try using it with one of them disconnected and every 15 minutes rotate the product that is disconnected. Once identified, ensure its properly connected, try using different ports and / or cables to confirm if its the TV port, the cable or the product its connected to.<br /><br />If the above does not solve the issue, you can try a factory reset.<br /><br />If that still does not fix the issue please let us know your model number and the software version you are currently running so it can be escalated.                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="10612" title="bruno_spoon - Not Helpful on November 26, 2018."><a title="bruno_spoon" href="/profile/bruno_spoon" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="bruno_spoon" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="11223" title="Alonso_Roman - Not Helpful on December 9, 2018."><a title="Alonso_Roman" href="/profile/Alonso_Roman" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Alonso_Roman" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Not Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="11999" title="wayneriley - Not Helpful on December 29, 2018."><a title="wayneriley" href="/profile/wayneriley" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="wayneriley" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="12183" title="spud14901 - Not Helpful on January 1, 2019."><a title="spud14901" href="/profile/spud14901" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="spud14901" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="13100" title="TonyCasey - Not Helpful on January 23, 2019."><a title="TonyCasey" href="/profile/TonyCasey" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="TonyCasey" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="16686" title="ShipSTG - Not Helpful on April 28, 2019."><a title="ShipSTG" href="/profile/ShipSTG" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="ShipSTG" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="16792" title="giganova - Not Helpful on April 30, 2019."><a title="giganova" href="/profile/giganova" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="giganova" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="43060" title="keithhutch35 - Not Helpful on February 21, 2020."><a title="keithhutch35" href="/profile/keithhutch35" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/uploads/userpics/253/n64ZJTKQFB34Q.jpg" alt="keithhutch35" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_3910">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="kiltinista" href="/profile/kiltinista" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="kiltinista" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/kiltinista" class="Username">kiltinista</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-11-25 02:33:49            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            Same error message.<br />The only thing attached to my tv is the cable box.&nbsp;<br />This started up about a month ago. I am trying to stream amazon and it will not connect.&nbsp;<br />I am thinking that these are related.<br />my disconnect with amazon started at the same time.<br />LG webOS TV UJ6300                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="12040" title="Pissed_Off - Not Helpful on December 29, 2018."><a title="Pissed_Off" href="/profile/Pissed_Off" class="PhotoWrap PhotoWrapSmall"><img src="https://lh3.googleusercontent.com/-gElOrHaumgY/AAAAAAAAAAI/AAAAAAAAALI/uPggB9xDe6c/photo.jpg" alt="Pissed_Off" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_3921">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="bruno_spoon" href="/profile/bruno_spoon" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="bruno_spoon" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/bruno_spoon" class="Username">bruno_spoon</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-11-26 01:41:15            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>10</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            I Have the same issue on a 65UJ6300. In my case the wireless card has completely stopped working and I'm pretty sure that's the hardware the OS fails to recognize. This message has been plaguing my TV to the point it's annoying to watch anything. LG needs to address this notification issue, I don't care if my TV doesn't have wireless anymore, I can live with the wired connection but get rid of the notifications!&nbsp; <br />                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="43060" title="keithhutch35 - Helpful on February 21, 2020."><a title="keithhutch35" href="/profile/keithhutch35" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/uploads/userpics/253/n64ZJTKQFB34Q.jpg" alt="keithhutch35" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_4462">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Alonso_Roman" href="/profile/Alonso_Roman" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Alonso_Roman" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/Alonso_Roman" class="Username">Alonso_Roman</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-09 05:04:54            </span>
+                        <span class="MItem"> <span title="Edited December 9, 2018 5:05AM by Alonso_Roman." class="DateUpdated">edited December 2018</span> </span>                        <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            I have the same issue described above on&nbsp;LG webOS TV UJ6300. Not wireless (doesn't find any wireless network), and insistent pop-up messages saying&nbsp;“unknown device is disconnected.”I tried everything Alexander said, but didn`t work either. I tried factory reset and still have the problem.&nbsp;<br />Model&nbsp;LG webOS TV UJ6300<br />WebOS version 3.8.0-61202<br />Software Version 05.80.02                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="12040" title="Pissed_Off - Not Helpful on December 29, 2018."><a title="Pissed_Off" href="/profile/Pissed_Off" class="PhotoWrap PhotoWrapSmall"><img src="https://lh3.googleusercontent.com/-gElOrHaumgY/AAAAAAAAAAI/AAAAAAAAALI/uPggB9xDe6c/photo.jpg" alt="Pissed_Off" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_4469">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="steddydawg" href="/profile/steddydawg" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="steddydawg" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/steddydawg" class="Username">steddydawg</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-09 17:17:56            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>5</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            Mine is doing the same thing. Ready to throw it out the window. Not impressed with LG. It is just over 1 year old. I also get a “wired connection disconnected” and Hulu will then stop. Happens over and over and over again. Frustrating when trying to watch a show or sports. Have turned off the TV WiFi and still happening.&nbsp;                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="11393" title="todd210908 - Helpful on December 13, 2018."><a title="todd210908" href="/profile/todd210908" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="todd210908" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="12040" title="Pissed_Off - Not Helpful on December 29, 2018."><a title="Pissed_Off" href="/profile/Pissed_Off" class="PhotoWrap PhotoWrapSmall"><img src="https://lh3.googleusercontent.com/-gElOrHaumgY/AAAAAAAAAAI/AAAAAAAAALI/uPggB9xDe6c/photo.jpg" alt="Pissed_Off" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_4604">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="todd210908" href="/profile/todd210908" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="todd210908" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/todd210908" class="Username">todd210908</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-13 22:52:25            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>5</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            I am having the exact same issue I have nothing physically connected to the TV other than an Ethernet cable it displays a unknown device disconnected and Hulu and wired connection keeps disconnecting plus my remote is acting flakey the TV is a UJ7700 running 05.80.04 version of the software.                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_4619">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="tboudrot" href="/profile/tboudrot" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="tboudrot" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/tboudrot" class="Username">tboudrot</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-14 16:23:36            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>20</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            This issue is well documented on various Internet sites.&nbsp; The issue -- unknown device is disconnected -- along with flaky remote controller behavior and the TV's inability to recognize wireless networks are all related and experienced by many people.&nbsp; I called LG tech support two weeks ago and the service agent claimed no awareness of the issue.&nbsp; Very disappointing since many people have reported it to LG tech support and only a few have been able to resolve it through warranty channels.&nbsp; The older the TV, the less likelihood you'll have in getting warranty service.<br /><br />The issue appears to be related to the wifi board in the TV itself.&nbsp; Some individuals experiencing the issue have had that board replaced and a few report success while others do not.&nbsp; Since I use the wifi capability of the TV to watch Netflix and Amazon Prime, the TV is now useless to me as it can't access the wireless network.&nbsp;&nbsp;                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="6001" title="Bernie110 - Helpful on December 20, 2018."><a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="12183" title="spud14901 - Helpful on January 1, 2019."><a title="spud14901" href="/profile/spud14901" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="spud14901" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="12420" title="cmick53 - Helpful on January 6, 2019."><a title="cmick53" href="/profile/cmick53" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="cmick53" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="12444" title="DUDALE - Helpful on January 7, 2019."><a title="DUDALE" href="/profile/DUDALE" class="PhotoWrap PhotoWrapSmall"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCvCBgTFEb2RBhALMtFvYaASAAQIil7JrMxAqmvbg" alt="DUDALE" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_4800">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Bernie110" href="/profile/Bernie110" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="Bernie110" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/Bernie110" class="Username">Bernie110</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-20 11:27:35            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>5</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            <p>I just wanted to give an update on what’s happened since the last time I posted on here. I apologize in advance on the length of this post but I want to go into full detail on what a poor job LG is doing in the concern of resolving the issues with my television. The last six months have been hell regarding LG “repairing” my television. The’ve attempted to repair my television twice within the last six months with both results being the same. The first time they attempted to fix it was in late July everything was fine for a few days but I would soon receive the same notification “Unknown device is disconnected” on my television and my tv would shut down and turn back on by itself. I contacted them again in late August or early September concerning the issue and they said they would send the technician out to attempt to repair it again. The technician arrived two weeks later but was unable to work on the television because LG sent him the exact same part they sent him the last time and he said it was useless, so he drove an hour to my city for nothing. I contacted LG again and told them that I was not happy and that they needed to resolve this problem quickly. They said the part needed to fix my television was unavailable and would not be back in stock until the last week of October, a full month from when I contacted them. I waited a full month for the part to become available. Finally the final week of October came and the technician came back to attempt to fix the television again. Once again, it was fine for a few days and then I would have the exact same issues again. I’ve contacted LG numerous times and asked for a reimbursement but the’ve only given me the runaround and stated that the television needs to be attempted to be fixed three times before reimbursement can be taken into consideration. The final straw came a few days ago. I called the repair company that’s been working on my television and they said that they no longer offered their services to my city because it’s too far for them to drive here now. I contacted LG once again and told them about this and they said they would find another company within my area that specializes in repairing my television. A day after that, I received a text from LG stating that they had set up an appointment with another company to come fix my television. Lo and behold, it was the exact same company that said they didn’t come to my city anymore. I called the repair company just to confirm. They said LG made an error and they would contact LG. LG cancelled my appointment. I spoke with LG a day ago and told them to either reimburse me or that I was going to take legal action. They asked me to be patient and that they were looking for another alternative. They said that there appeared to be no one around me who specializes in repairing my television but that they were making a great attempt to find one.&nbsp;</p>
+<p><br /></p>
+<p>I’ve never in my life been so displeased and dissatisfied with a company in my entire life and that’s not an exaggeration. I once was a strong supporter of the LG brand and have even recommended their products to family and friends and most of them have purchased their products based on my endorsement. I will no longer purchase a single product from LG ever again for as long as I live and will strongly discourage anyone else from doing so based on the experience I’ve had with them for the past six months and I will most likely be taking them to court as I feel that they will never resolve this issue on their end.&nbsp;</p>                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="12040" title="Pissed_Off - Not Helpful on December 29, 2018."><a title="Pissed_Off" href="/profile/Pissed_Off" class="PhotoWrap PhotoWrapSmall"><img src="https://lh3.googleusercontent.com/-gElOrHaumgY/AAAAAAAAAAI/AAAAAAAAALI/uPggB9xDe6c/photo.jpg" alt="Pissed_Off" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-2 ReactThumbsUp2"></span></span><span class="UserReactionWrap" data-userid="12183" title="spud14901 - Helpful on January 1, 2019."><a title="spud14901" href="/profile/spud14901" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="spud14901" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span><span class="UserReactionWrap" data-userid="13100" title="TonyCasey - Helpful on January 23, 2019."><a title="TonyCasey" href="/profile/TonyCasey" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="TonyCasey" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_4818">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="tboudrot" href="/profile/tboudrot" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="tboudrot" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/tboudrot" class="Username">tboudrot</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-20 23:28:30            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            <div><div><div>Bernie110 -<br /><br />Thanks for your diligence in keeping this forum thread alive.&nbsp; I share your disappointment about LG's inability to come up with a solution.&nbsp; Knowing the steps you've gone through are helpful even though you've not had any success.<br /><br />In combing the Internet today regarding the issue, a new post was discovered on the CNET.COM forums (<a href="https://www.cnet.com/forums/discussions/unknown-device-is-disconnected-lg-tvs-solved/" rel="nofollow">https://www.cnet.com/forums/discussions/unknown-device-is-disconnected-lg-tvs-solved/</a>).&nbsp; The word "solved" caught my eye.&nbsp; I've pasted the post below (yeah there's a bit of voodoo in the possible fix ... but the steps are certainly easy to replicate).&nbsp; I plan to give it a try today and I'll post back with the results.<br /><br />----------------------------------------------------------<br /><br />ALERT:&nbsp;&nbsp;unknown device is disconnected LG TVs solved</div><div>BY&nbsp;projectordude&nbsp;|&nbsp;DECEMBER 19, 2018 6:13 AM PST</div><div><div><p>Pesky unknown device is disconnected message on LG TVs ,To fix it just switch to in store mode and then shut off all in store demo stuff in store mode sub menu , I have laptop and cable connected as well as using the LG tuner off air all work .message gone</p></div></div></div><div><div><div><div><div><div><div><div><br /></div><div></div><div></div><div></div></div></div></div></div><div></div></div></div></div></div><div><div></div></div>                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_5022">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Pissed_Off" href="/profile/Pissed_Off" class="PhotoWrap"><img src="https://lh3.googleusercontent.com/-gElOrHaumgY/AAAAAAAAAAI/AAAAAAAAALI/uPggB9xDe6c/photo.jpg" alt="Pissed_Off" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/Pissed_Off" class="Username">Pissed_Off</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-29 11:27:23            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>5</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            "unknown device" message and does not see my wi-fi ...... Piece of **** **** TV                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="12420" title="cmick53 - Helpful on January 6, 2019."><a title="cmick53" href="/profile/cmick53" class="PhotoWrap PhotoWrapSmall"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="cmick53" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_5023">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="wayneriley" href="/profile/wayneriley" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="wayneriley" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/wayneriley" class="Username">wayneriley</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-29 16:35:53            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            My TV worked perfectly fine until a recent software update and since then I have been getting the dreaded Unknown device disconnected &amp; wired connection disconnected. The magic remote will stop working but if I use the SKY remote it works????<br />Has there been a fix for this issue yet?<br />Model: 65UJ750V-ZB<br />WEB OS TV VERSION: 3.8.0-61106 (dreadlocks2-dunggir)<br /><br />                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_5027">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="masterne0" href="/profile/masterne0" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="masterne0" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/masterne0" class="Username">masterne0</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-30 05:43:53            </span>
+                        <span class="MItem"> <span title="Edited December 30, 2018 5:44AM by masterne0." class="DateUpdated">edited December 2018</span> </span>                        <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            <div>I am just getting this today. WIFI also broken (hasn't worked) and have tried resetting it, cleaning ports, removing all cables but power, and it running the latest firmware update.</div><div><br /></div><div>The TV more then a year old, i never had a TV failed a year like this before. This is ridiculous. LG needs to address this problem. Only way to get around this issue is set it to STORE mode but then you can't save any custom settings (it resets itself in a loop in store mode after a few minutes but then you can TURN OFF NOTIFICATIONS IN STORE MODE)<br /></div>                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_5057">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="AngryGinger" href="/profile/AngryGinger" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="AngryGinger" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/AngryGinger" class="Username">AngryGinger</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2018-12-31 16:41:30            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            I have this same issue. I have been through 2 different service repair companies, 3 Main board replacements, 2 WiFi replacements, and a power module replacement.&nbsp; It works for about 10 days then the message comes back.&nbsp;&nbsp;<br /><br />The 2nd repair company came back and said that they found this forum and this should fix the issue. THIS IS NOT A FIX!!&nbsp; &nbsp;This is a band-aid. A cheap band-aid that doesn't stick well!!!&nbsp;&nbsp;<br /><br />LG Needs to fix this!!!                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Role_Member" id="Comment_5105">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="spud14901" href="/profile/spud14901" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="spud14901" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/spud14901" class="Username">spud14901</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2019-01-01 15:05:33            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>5</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            I have a 60UJ6300-UA model. The TV stopped being able to find my wireless network or any other after the last firmware update. . I moved the Router to within 25 feet and still no wireless. The&nbsp; messages on the screen are driving me crazy. Right now it connects to the Internet with wire. I have owned many LG products over the past 15+ years but this is the last LG product. I still have over two months left on the 1 year warranty but I am not going through the aggravation most people have on this and other sites. I am going out next week and buying another brand. I will never purchase another LG product.                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"><span class="UserReactionWrap" data-userid="12348" title="Bond - Helpful on January 5, 2019."><a title="Bond" href="/profile/Bond" class="PhotoWrap PhotoWrapSmall"><img src="https://lh5.googleusercontent.com/-qFesR9O8uMQ/AAAAAAAAAAI/AAAAAAAAAO4/GsjXgxfu0Ag/photo.jpg" alt="Bond" class="ProfilePhoto ProfilePhotoSmall" /></a><span class="ReactSprite Reaction-1 ReactThumbsUp"></span></span></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                <li class="Item ItemComment Role_Member" id="Comment_5169">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    
+                    <div class="re-title">
+                        <img class="reply-icon" src="/themes/LG/images/arrowcurve.png" alt="Reply Title Icon" />
+                        <h4>RE: Annoying message pops up on my TV</h4>
+                    </div>
+                    
+                    
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="silentmeow" href="/profile/silentmeow" class="PhotoWrap"><img src="https://lgcommunity.us.com/applications/dashboard/design/images/defaulticon.png" alt="silentmeow" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="/profile/silentmeow" class="Username">silentmeow</a>            </span>
+            <span class="AuthorInfo">
+                 <span class="MItem RoleTitle">Member</span>             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               Posted on 2019-01-03 12:48:39            </span>
+                                                <span class="Voter"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteUp SignInPopup"><i class="ArrowSprite SpriteUp" rel="nofollow"><i>Vote Up</i></i></a><span>0</span><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv" class="VoteDown SignInPopup"><i class="ArrowSprite SpriteDown" rel="nofollow"><i>Vote Down</i></i></a></span>                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message">
+                            Putting the tv in store mode gets rid of the annoying message of unknown device is disconnected.                        </div>
+                        <div class="Reactions"></div><div class="ReactionRecord"></div>                      
+                    </div>
+                </div>
+               
+            </div>
+        </li>
+                </ul>
+    </div><div class="P PagerWrap"><div  id="PagerAfter" class="Pager NumberedPager"><span class="Previous">«</span><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv" class="Highlight p-1 FirstPage">1</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p2" class=" p-2" rel="next">2</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p3" class=" p-3">3</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p4" class=" p-4">4</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p5" class=" p-5">5</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p6" class=" p-6">6</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p7" class=" p-7">7</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p8" class=" p-8">8</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p9" class=" p-9 LastPage">9</a><a href="https://lgcommunity.us.com/discussion/1621/annoying-message-pops-up-on-my-tv/p2" class="Next" rel="next">»</a></div></div></div>                <div class="Foot Closed">
+                    <div class="Note Closed SignInOrRegister"><a href="/entry/signin?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv%3F" class="Popup">Sign In</a> or <a href="/entry/register?Target=discussion%2F1621%2Fannoying-message-pops-up-on-my-tv%3F">Register</a> to comment.                    </div>
+                                    </div>
+            
+            </div>
+            
+
+
+        </div>
+    </div>
+    <div id="Foot">
+        <div class="row">
+            
+            <section class="bottom-bar"> 
+                <div class="container clearfix"> 
+                    <ul> 
+                        <li> <a href="https://www.lg.com/us/privacy">Privacy</a> </li> 
+                        <li> <a href="https://www.lg.com/us/legal">Legal</a> </li> 
+                        <li> <a href="https://www.lg.com/us/patent">Patent</a> </li> 
+                        <li> <a href="/home/termsofservice">Terms &amp; Conditions</a> </li>
+                        <!--<li> <a href="/report-site-problem/form.php">Report Site Problem</a> </li>  -->
+                    </ul> 
+                    <div class="copyright">Copyright © 2017 - 2019 LG Electronics. All Rights Reserved.</div> 
+                </div> 
+            </section>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/resources/js/global.js"></script>
+<script type="text/javascript" src="/themes/LG-Desktop/js/category-collapse.js"></script>
+
+</body>
+</html>
